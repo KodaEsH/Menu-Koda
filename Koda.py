@@ -27,7 +27,8 @@ def you():
 def getip():
     ip = " "
     try:
-        in_put = input("Get you http link :  ")
+        print("Example : google.com, youtube.com")
+        in_put = input("Input you link :  ")
         get = socket.gethostbyname(in_put)
         print(f"Host ip is : {get}")
         ip = get
