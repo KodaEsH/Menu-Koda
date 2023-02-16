@@ -1,5 +1,5 @@
 <h7> Menu-Koda </h7>
-<h3>Menu com diversas funções para pentest.</h3>
+<h3>Menu simples com diversas funções para pentest.</h3>
 
 
 # Tutorial :
